@@ -1,0 +1,58 @@
+#topWidget
+{
+background-color:rgb(0,0,0,210);
+
+}
+
+#playTitle{
+     font-size: 35px;
+     font-family:"KaiTi";
+}
+#welcomeLab{
+    font-size: 35px;
+    font-family:"KaiTi";
+}
+#timeLab{
+    font-size:25px;
+    font-family:"KaiTi";
+}
+
+#monitorBtn,#playbackBtn,#logBtn,#settingBtn
+{
+    background-color:rgb(255,146,94);
+    width:80;
+    height:30;
+    font-size:20px;
+    font-family:"KaiTi";
+    color:black;
+
+}
+#monitorBtn:hover,#playbackBtn:hover,#logBtn:hover,#settingBtn:hover{
+    background-color:gray;
+    width:80;
+    height:30;
+    font-size:20px;
+    font-family:"KaiTi";
+    color:rgb(255,146,94);
+
+}
+#loginBtn{
+    width:40;
+    height:40;
+    font-size:15px;
+    font-family:"KaiTi";
+    border-radius:20px;
+    border: 1px solid rgb(255,146,94);
+    color:black;
+    background-color:rgb(255,146,94);
+}
+#loginBtn:hover{
+    width:40;
+    height:40;
+    font-size:15px;
+    font-family:"KaiTi";
+    border-radius:20px;
+    border: 1px solid rgb(255,146,94);
+    color:rgb(255,146,94);
+    background-color:gray;
+}

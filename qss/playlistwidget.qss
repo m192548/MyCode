@@ -1,0 +1,38 @@
+#videoLabel
+{
+background-color:balck;
+border:2px solid black;
+font-size:35px;
+color:white;
+}
+#rightWidget
+{
+background-color:rgb(1,71,105);
+}
+#videoListWidget
+{
+background-color:rgb(1,71,105);
+border-top:1px solid gray;
+font-size:18px;
+font-family:"宋体";
+color:white;
+}
+#findBtn
+{
+background-color:white;
+color:black;
+font-size:20px;
+font-family:"微软雅黑";
+}
+#findBtn:hover
+{
+background-color:rgba(1,71,105,100);
+color:white;
+font-size:20px;
+font-family:"微软雅黑";
+}
+#pageCountLabel
+{
+    color:white;
+    font-size:16px;
+}
