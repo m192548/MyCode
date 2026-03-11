@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bg.png</file>
+        <file>images/icon.png</file>
+        <file>images/monitor1.png</file>
+        <file>images/background1.png</file>
+        <file>images/background2.png</file>
+        <file>images/eyesclose.png</file>
+        <file>images/eyesopen.png</file>
+        <file>images/fourway.png</file>
+        <file>images/oneway.png</file>
+        <file>images/singleway.png</file>
+        <file>images/wayfour.png</file>
+        <file>qss/login.qss</file>
+        <file>qss/monitorwidget.qss</file>
+        <file>qss/playwidget.qss</file>
+        <file>qss/register.qss</file>
+        <file>qss/setview.qss</file>
+        <file>qss/photolistwidget.qss</file>
+        <file>qss/playbackwidget.qss</file>
+        <file>qss/playlistwidget.qss</file>
+        <file>qss/videoplaywidget.qss</file>
+    </qresource>
+</RCC>

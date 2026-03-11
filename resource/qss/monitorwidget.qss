@@ -1,0 +1,40 @@
+#leftWidget
+{
+background-color:rgb(1,71,105);
+
+}
+#cameraListWidget
+{
+background-color:rgbrgb(1,71,105);
+}
+#cameraLab{
+    color:white;
+    font-size:25px;
+    font-family:"KaiTi";
+}
+#videoWidget
+{
+    background-color:rgba(1,71,105,128);
+}
+#videoLab1{
+    font-size:35px;
+    font-family:"KaiTi";
+    border:2px solid black;
+}
+#videoLab2{
+    font-size:35px;
+    font-family:"KaiTi";
+    border:2px solid black;
+}
+#videoLab3{
+    font-size:35px;
+    font-family:"KaiTi";
+    border:2px solid black;
+}
+#videoLab4{
+    font-size:35px;
+    font-family:"KaiTi";
+    border:2px solid black;
+}
+
+

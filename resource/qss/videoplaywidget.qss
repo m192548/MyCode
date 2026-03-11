@@ -1,0 +1,23 @@
+#topWidget
+{
+background-color:white;
+}
+#titleLabel
+{
+    font-size:25px;
+    font-family:"楷体";
+}
+#videoPlayLabel
+{
+background-color:black;
+border: 1px solid black;
+}
+#durationInfoWidget
+{
+background-color:black;
+}
+#curentDurationLabel,#totalDurationLabel
+{
+    color:white;
+    font-size:18px;
+}

@@ -1,0 +1,17 @@
+#photoLab00,#photoLab01,#photoLab02,
+#photoLab10,#photoLab11,#photoLab12,
+#photoLab20,#photoLab21,#photoLab22
+{
+border:1px solid black;
+}
+#rightWidget
+{
+background-color:white;
+
+}
+QLabel
+{
+font-size:20px;
+font-family:"微软雅黑";
+
+}

@@ -1,0 +1,8 @@
+QLabel{
+    font-size:25px;
+    color:white;
+}
+QMessageBox QLabel
+{
+    color:black;
+}
